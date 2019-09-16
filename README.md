@@ -26,6 +26,8 @@
 - https://www.youtube.com/watch?v=BpgL2LGEhP4 - На пути к быстрой многопоточной хеш-таблице
 - https://www.youtube.com/watch?v=Plt8ZPlaLIU - Аппаратная транзакционная память в Java
 - https://www.youtube.com/watch?v=rEGbn_JZ3RQ&list=PL-E8ovIUgWKIZ2FVgf64v9h4427wplj0Y&index=3&t=0s - Дизайн kotlinx.serialization
+- https://www.hellsoft.se/understanding-cpu-and-i-o-bound-for-asynchronous-operations/ - Зачем различать I/O-bound и CPU-bound задачи
+- https://www.hellsoft.se/non-blocking-io/ - О чем вообще этот non-blocking I/O (на примере java.nio)
 
 # Android
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
