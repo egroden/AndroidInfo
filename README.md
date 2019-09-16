@@ -19,7 +19,7 @@
 - https://www.youtube.com/watch?v=XHMXyYlQ8Eg - Coroutines Channels
 - https://www.youtube.com/watch?v=_0c9Fd9FacU&t=1585s - Generics
 - https://www.youtube.com/watch?v=lfdAwl3-X_c&t=39s - ООП (Егор Бугаенко)
- -https://www.youtube.com/watch?v=rJ9BRDuvJ1I - kapt
+- https://www.youtube.com/watch?v=rJ9BRDuvJ1I - kapt
 
 # Android
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
