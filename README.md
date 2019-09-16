@@ -22,6 +22,7 @@
 - https://www.youtube.com/watch?v=rJ9BRDuvJ1I - kapt
 - http://javanese.online/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/exploring_java_hidden_costs/ - Неявные преграды производительности Java
 - https://habr.com/ru/post/329498/ - Boxing/Unboxing
+- https://habr.com/ru/company/luxoft/blog/157273/ - Обзор java.util.concurrent
 
 # Android
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
