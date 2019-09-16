@@ -1,8 +1,8 @@
 # AndroidInfo
 
 # Dalvik/ART/JVM
-https://www.youtube.com/watch?v=dMglbJBrQvo&t=1306s - виртуальные машины
-https://www.youtube.com/watch?v=JbLClSMRK_I - jvm (краткий курс)
+- https://www.youtube.com/watch?v=dMglbJBrQvo&t=1306s - виртуальные машины
+- https://www.youtube.com/watch?v=JbLClSMRK_I - jvm (краткий курс)
 https://www.youtube.com/watch?v=zpwAuRnOPQA - Op-codes
 https://www.youtube.com/watch?v=hnadkXBIC1k&t=1157s
 https://www.youtube.com/watch?v=kKigibHrV5I - память java процесса
