@@ -1,6 +1,6 @@
 # AndroidInfo
 
-#Dalvik/ART/JVM
+# Dalvik/ART/JVM
 https://www.youtube.com/watch?v=dMglbJBrQvo&t=1306s - виртуальные машины
 https://www.youtube.com/watch?v=JbLClSMRK_I - jvm (краткий курс)
 https://www.youtube.com/watch?v=zpwAuRnOPQA - Op-codes
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=-lJm_hdRmkk - unsafe
 https://www.youtube.com/watch?v=oYu3HuIYDhI - jit компиляция
 
 
-#Kotlin/Java
+# Kotlin/Java
 https://www.youtube.com/watch?v=iB2N8aqwtxc - Java Memory Model
 https://www.youtube.com/watch?v=rB5Q3y73FTo - Coroutines
 https://www.youtube.com/watch?v=0ioDlsVyw1g - Coroutines Flow
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=_0c9Fd9FacU&t=1585s - Generics
 https://www.youtube.com/watch?v=lfdAwl3-X_c&t=39s - ООП (Егор Бугаенко)
 
 
-#Конференции и митапы
+# Конференции и митапы
 https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A/videos - Mobius
 https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g - AppConf
 https://www.youtube.com/user/JUGRuVideo - JUG.ru
