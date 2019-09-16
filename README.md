@@ -25,6 +25,7 @@
 - https://habr.com/ru/company/luxoft/blog/157273/ - Обзор java.util.concurrent
 - https://www.youtube.com/watch?v=BpgL2LGEhP4 - На пути к быстрой многопоточной хеш-таблице
 - https://www.youtube.com/watch?v=Plt8ZPlaLIU - Аппаратная транзакционная память в Java
+- https://www.youtube.com/watch?v=rEGbn_JZ3RQ&list=PL-E8ovIUgWKIZ2FVgf64v9h4427wplj0Y&index=3&t=0s - Дизайн kotlinx.serialization
 
 # Android
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
