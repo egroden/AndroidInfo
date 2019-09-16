@@ -47,6 +47,7 @@
 - https://www.youtube.com/watch?v=uhtYuvubVm8 - DiffUtils
 - https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
 - https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
+- https://github.com/Miha-x64/Lychee - классный MVVM
 
 
 # Virtual/Incremental dom
