@@ -19,9 +19,36 @@
 - https://www.youtube.com/watch?v=XHMXyYlQ8Eg - Coroutines Channels
 - https://www.youtube.com/watch?v=_0c9Fd9FacU&t=1585s - Generics
 - https://www.youtube.com/watch?v=lfdAwl3-X_c&t=39s - ООП (Егор Бугаенко)
+ -https://www.youtube.com/watch?v=rJ9BRDuvJ1I - kapt
 
+# Android
+- https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
+- https://www.youtube.com/watch?v=-VmuCQaejEg - Процессы в android
+- https://www.youtube.com/watch?v=sBllMIaA8to - IPC
+- https://www.youtube.com/watch?v=hX-r-PiKX4s - CustomViews
+- https://www.youtube.com/watch?v=wcdqoTubPrU - SingleActivity
+- https://www.youtube.com/watch?v=Yx2VjW5G2GA - Просто интересно
+- https://www.youtube.com/watch?v=S7_hdLtDwcA - Реализация кэша в Vk
+- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Память в android приложении
+- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Android security
+- https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
+- https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
+- https://www.youtube.com/watch?v=dU_8Ohz740c&t=1828s - Сервисы
+- https://www.youtube.com/watch?v=EtWt3Vzm6pE&t=2366s - Ui профайлинг 
+- https://www.youtube.com/watch?v=XpI5SIF1VMg - JobScheduler
+- https://vk.com/tech?w=wall-147415323_4623 - VkTech android. VkSdk, Историии в VK, Рендеринг сообщений в VK
+- https://www.youtube.com/watch?v=gltwW1-Ibp0 - Бинарная имплементация SharedPreferences
+- https://www.youtube.com/watch?v=860_Y5TXh1Y&t=1516s - RecyclerView
+- https://ziginsider.github.io/RecyclerView/ - RecyclerView
+- https://medium.com/@programmerr47/recyclerview-item-optimizations-cae1aed0c321 - RecyclerView optimizations
+- https://proandroiddev.com/recyclerview-pro-tips-part-1-8a291594bafc - Pro tips
+- https://blog.usejournal.com/improve-recyclerview-performance-ede5cec6c5bf - RecyclerView optimizations
 
-# Конференции и митапы
+# FP
+- https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s
+- https://www.youtube.com/watch?v=9zpG_hJsrL8&t=1s
+
+# Конференции и митапы (тут все темы)
 - https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A/videos - Mobius
 - https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g - AppConf
 - https://www.youtube.com/user/JUGRuVideo - JUG.ru
