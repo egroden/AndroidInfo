@@ -43,6 +43,7 @@
 - https://medium.com/@programmerr47/recyclerview-item-optimizations-cae1aed0c321 - RecyclerView optimizations
 - https://proandroiddev.com/recyclerview-pro-tips-part-1-8a291594bafc - Pro tips
 - https://blog.usejournal.com/improve-recyclerview-performance-ede5cec6c5bf - RecyclerView optimizations
+- https://medium.com/google-developers/recyclerview-prefetch-c2f269075710 - RecyclerView prefetch
 
 # FP
 - https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s
