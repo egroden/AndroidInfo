@@ -23,6 +23,8 @@
 - http://javanese.online/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/exploring_java_hidden_costs/ - Неявные преграды производительности Java
 - https://habr.com/ru/post/329498/ - Boxing/Unboxing
 - https://habr.com/ru/company/luxoft/blog/157273/ - Обзор java.util.concurrent
+- https://www.youtube.com/watch?v=BpgL2LGEhP4 - На пути к быстрой многопоточной хеш-таблице
+- https://www.youtube.com/watch?v=Plt8ZPlaLIU - Аппаратная транзакционная память в Java
 
 # Android
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
