@@ -46,6 +46,7 @@
 - https://medium.com/google-developers/recyclerview-prefetch-c2f269075710 - RecyclerView prefetch
 - https://www.youtube.com/watch?v=uhtYuvubVm8 - DiffUtils
 - https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
+- https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
 
 
 # Virtual/Incremental dom
@@ -54,6 +55,12 @@
 - https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f - incremental dom
 - http://intelligiblebabble.com/compose-from-first-principles/ - Jetpack Compose (android)
 - https://www.youtube.com/watch?v=VBT-eMIC5DE - Litho (android)
+
+# Сеть
+- https://www.youtube.com/watch?v=aXYJlizk3CQ - UDP vs TCP
+- https://www.youtube.com/watch?v=0xKAR0AHIdY - Ускорение интернета (android)
+- https://www.youtube.com/watch?v=zRatFInDCvA - Щи, или Распознавание 330 млн лиц на скорости 1000 фото в сек
+- https://www.youtube.com/watch?v=MnEXuKHjIOU - Миллион видеозвонков в сутки 
 
 # FP
 - https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s
