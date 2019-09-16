@@ -44,6 +44,15 @@
 - https://proandroiddev.com/recyclerview-pro-tips-part-1-8a291594bafc - Pro tips
 - https://blog.usejournal.com/improve-recyclerview-performance-ede5cec6c5bf - RecyclerView optimizations
 - https://medium.com/google-developers/recyclerview-prefetch-c2f269075710 - RecyclerView prefetch
+- https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
+
+
+# Virtual/Incremental dom
+- https://www.youtube.com/watch?v=6YF3ZzUyTms&t=1s - virtual dom in React
+- https://medium.com/devschacht/how-to-write-your-own-virtual-dom-c166b56cf01f - свой virtual dom
+- https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f - incremental dom
+- http://intelligiblebabble.com/compose-from-first-principles/ - Jetpack Compose (android)
+- https://www.youtube.com/watch?v=VBT-eMIC5DE - Litho (android)
 
 # FP
 - https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s
