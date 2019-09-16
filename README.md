@@ -4,7 +4,7 @@
 - https://www.youtube.com/watch?v=dMglbJBrQvo&t=1306s - виртуальные машины
 - https://www.youtube.com/watch?v=JbLClSMRK_I - jvm (краткий курс)
 - https://www.youtube.com/watch?v=zpwAuRnOPQA - Op-codes
-- https://www.youtube.com/watch?v=hnadkXBIC1k&t=1157s
+- https://www.youtube.com/watch?v=hnadkXBIC1k&t=1157s - Graal, Value Types, Loom и прочие ништяки
 - https://www.youtube.com/watch?v=kKigibHrV5I - память java процесса
 - https://www.youtube.com/watch?v=JBaZ4lK6OBk - Shenandoah сборшик мусора (1 часть)
 - https://www.youtube.com/watch?v=HBWaffsl7fo - Shenandoah сборшик мусора (2 часть)
