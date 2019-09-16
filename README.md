@@ -44,6 +44,7 @@
 - https://proandroiddev.com/recyclerview-pro-tips-part-1-8a291594bafc - Pro tips
 - https://blog.usejournal.com/improve-recyclerview-performance-ede5cec6c5bf - RecyclerView optimizations
 - https://medium.com/google-developers/recyclerview-prefetch-c2f269075710 - RecyclerView prefetch
+- https://www.youtube.com/watch?v=uhtYuvubVm8 - DiffUtils
 - https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
 
 
