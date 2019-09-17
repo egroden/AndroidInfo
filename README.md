@@ -32,23 +32,16 @@
 - https://www.youtube.com/watch?v=a2RoLFzrFG0 - Annotation Processing in a Kotlin
 - https://www.youtube.com/watch?v=moHNujaeD2I - Нужен ли нам unsafe в java
 
-# Android
+# Android General
 - https://www.youtube.com/watch?v=ZnIv79j_iuY - Ioc в android
-- https://www.youtube.com/watch?v=-VmuCQaejEg - Процессы в android
-- https://www.youtube.com/watch?v=sBllMIaA8to - IPC
-- https://www.youtube.com/watch?v=hX-r-PiKX4s - CustomViews
 - https://www.youtube.com/watch?v=wcdqoTubPrU - SingleActivity
 - https://www.youtube.com/watch?v=Yx2VjW5G2GA - Просто интересно
-- https://www.youtube.com/watch?v=S7_hdLtDwcA - Реализация кэша в Vk
-- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Память в android приложении
-- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Android security
-- https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
-- https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
-- https://www.youtube.com/watch?v=dU_8Ohz740c&t=1828s - Сервисы
-- https://www.youtube.com/watch?v=EtWt3Vzm6pE&t=2366s - Ui профайлинг 
-- https://www.youtube.com/watch?v=XpI5SIF1VMg - JobScheduler
-- https://vk.com/tech?w=wall-147415323_4623 - VkTech android. VkSdk, Историии в VK, Рендеринг сообщений в VK
-- https://www.youtube.com/watch?v=gltwW1-Ibp0 - Бинарная имплементация SharedPreferences
+- https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
+
+# Android UI
+- https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
+- https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979 - Understanding the RenderThread
+- https://uiandroid.com/view-layers-for-dummies-87c2c5ef4a60 - View Layers
 - https://www.youtube.com/watch?v=860_Y5TXh1Y&t=1516s - RecyclerView
 - https://ziginsider.github.io/RecyclerView/ - RecyclerView
 - https://medium.com/@programmerr47/recyclerview-item-optimizations-cae1aed0c321 - RecyclerView optimizations
@@ -57,12 +50,34 @@
 - https://medium.com/google-developers/recyclerview-prefetch-c2f269075710 - RecyclerView prefetch
 - https://android.jlelse.eu/recyclerview-optimisations-a4b141dd433d - RecyclerView optimizations
 - https://www.youtube.com/watch?v=uhtYuvubVm8 - DiffUtils
-- https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
-- https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
-- https://github.com/Miha-x64/Lychee - классный MVVM
-- https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
-- https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979 - Understanding the RenderThread
+- https://www.youtube.com/watch?v=EtWt3Vzm6pE&t=2366s - Ui профайлинг
+- https://www.youtube.com/watch?v=hX-r-PiKX4s - CustomViews
+- https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239080%2F7aa8c9a85c738bc8eb%2Fpl_wall_-147415323 - Рендеринг экрана сообщений в Vk
 
+# Android Persistence
+- https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
+- https://www.youtube.com/watch?v=gltwW1-Ibp0 - Бинарная имплементация SharedPreferences
+- https://www.youtube.com/watch?v=S7_hdLtDwcA - Реализация кэша в Vk
+
+# Android OS
+- https://www.youtube.com/watch?v=-VmuCQaejEg - Процессы в android
+- https://www.youtube.com/watch?v=sBllMIaA8to - IPC
+- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Память в android приложении
+
+# Android Background
+- https://www.youtube.com/watch?v=dU_8Ohz740c&t=1828s - Сервисы
+- https://www.youtube.com/watch?v=XpI5SIF1VMg - JobScheduler
+
+# Android media
+- https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239079%2Ff1f02f33f0946e8688%2Fpl_wall_-147415323 - Камера историй в Vk
+- https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
+
+# Android Secutiry
+- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Android security
+
+# Android Architecture
+- https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
+- https://github.com/Miha-x64/Lychee - классный MVVM
 
 # Virtual/Incremental dom
 - https://www.youtube.com/watch?v=6YF3ZzUyTms&t=1s - virtual dom in React
