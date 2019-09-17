@@ -67,6 +67,7 @@
 - http://intelligiblebabble.com/compose-from-first-principles/ - Jetpack Compose (android)
 - https://www.youtube.com/watch?v=VBT-eMIC5DE - Litho (android)
 - https://github.com/anvil-ui/anvil - incremental dom (android)
+- https://github.com/y2k/virtual-ui-research - virtual dom (android, просто топчик)
 
 # Сеть
 - https://www.youtube.com/watch?v=aXYJlizk3CQ - UDP vs TCP
