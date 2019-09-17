@@ -66,6 +66,7 @@
 - https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f - incremental dom
 - http://intelligiblebabble.com/compose-from-first-principles/ - Jetpack Compose (android)
 - https://www.youtube.com/watch?v=VBT-eMIC5DE - Litho (android)
+- https://github.com/anvil-ui/anvil - incremental dom (android)
 
 # Сеть
 - https://www.youtube.com/watch?v=aXYJlizk3CQ - UDP vs TCP
