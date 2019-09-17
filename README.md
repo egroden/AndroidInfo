@@ -10,6 +10,7 @@
 - https://www.youtube.com/watch?v=HBWaffsl7fo - Shenandoah сборшик мусора (2 часть)
 - https://www.youtube.com/watch?v=-lJm_hdRmkk - unsafe
 - https://www.youtube.com/watch?v=oYu3HuIYDhI - jit компиляция
+- https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924 - Closer Look At Android Runtime: DVM vs ART
 
 
 # Kotlin/Java
