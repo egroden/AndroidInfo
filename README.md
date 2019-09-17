@@ -76,8 +76,8 @@
 - https://www.youtube.com/watch?v=MnEXuKHjIOU - Миллион видеозвонков в сутки 
 
 # FP
-- https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s
-- https://www.youtube.com/watch?v=9zpG_hJsrL8&t=1s
+- https://www.youtube.com/watch?v=Bn132AtZLhc&t=4s - Type Driven Development with F#
+- https://www.youtube.com/watch?v=9zpG_hJsrL8&t=1s - Dependency Rejection and TDD without Mocks
 
 # Конференции и митапы (тут все темы)
 - https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A/videos - Mobius
