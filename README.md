@@ -89,7 +89,7 @@
 - https://github.com/y2k/virtual-ui-research - virtual dom (android, просто топчик)
 - https://speakerdeck.com/lelandrichardson/react-meet-compose - React and Jetpack Compose
 
-# Сеть
+# Network
 - https://www.youtube.com/watch?v=aXYJlizk3CQ - UDP vs TCP
 - https://www.youtube.com/watch?v=0xKAR0AHIdY - Ускорение интернета (android)
 - https://www.youtube.com/watch?v=zRatFInDCvA - Щи, или Распознавание 330 млн лиц на скорости 1000 фото в сек
