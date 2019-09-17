@@ -58,6 +58,7 @@
 - https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
 - https://github.com/Miha-x64/Lychee - классный MVVM
 - https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
+- https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979 - Understanding the RenderThread
 
 
 # Virtual/Incremental dom
