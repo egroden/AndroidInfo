@@ -53,6 +53,7 @@
 - https://www.youtube.com/watch?v=EtWt3Vzm6pE&t=2366s - Ui профайлинг
 - https://www.youtube.com/watch?v=hX-r-PiKX4s - CustomViews
 - https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239080%2F7aa8c9a85c738bc8eb%2Fpl_wall_-147415323 - Рендеринг экрана сообщений в Vk
+- https://youtu.be/b0217C0kGUs - Пример использования Jetpack Compose
 
 # Android Persistence
 - https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
