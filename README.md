@@ -74,7 +74,7 @@
 - https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
 
 # Android Secutiry
-- https://www.youtube.com/watch?v=jJDZdg0dP2Y - Android security
+- https://www.youtube.com/watch?v=t6JQuxZz0Z0 - Android security
 
 # Android Architecture
 - https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
