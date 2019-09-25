@@ -60,6 +60,7 @@
 - https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239080%2F7aa8c9a85c738bc8eb%2Fpl_wall_-147415323 - Рендеринг экрана сообщений в Vk
 - https://youtu.be/b0217C0kGUs - Пример использования Jetpack Compose
 - https://www.youtube.com/watch?v=h5afEeuI0GQ - Упрощаем рутину списки 2.0
+- http://www.azoft.ru/blog/android-layoutmanagers/ - Как создавать кастомные LayoutManagers для Android
 
 # Android Persistence
 - https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
