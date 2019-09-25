@@ -38,6 +38,7 @@
 - https://www.youtube.com/watch?v=wcdqoTubPrU - SingleActivity
 - https://www.youtube.com/watch?v=Yx2VjW5G2GA - Просто интересно
 - https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
+- https://youtu.be/1lbEw1sKsuY - Кодогенерация без kapt
 
 # Android UI
 - https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
