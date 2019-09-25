@@ -81,6 +81,9 @@
 - https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
 - https://github.com/Miha-x64/Lychee - классный MVVM
 
+# Android Build
+- https://youtu.be/ZgCZV8Q9dt0 - Сборка Android-приложения. Задачка со звёздочкой
+
 # Virtual/Incremental dom
 - https://www.youtube.com/watch?v=6YF3ZzUyTms&t=1s - virtual dom in React
 - https://medium.com/devschacht/how-to-write-your-own-virtual-dom-c166b56cf01f - свой virtual dom
