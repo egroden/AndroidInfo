@@ -81,6 +81,7 @@
 # Android Architecture
 - https://www.youtube.com/watch?v=hBkQkjWnAjg - MVI
 - https://github.com/Miha-x64/Lychee - классный MVVM
+- https://habr.com/ru/post/467983/ - Почему вам стоит выкинуть MVP из своих проектов
 
 # Android Build
 - https://youtu.be/ZgCZV8Q9dt0 - Сборка Android-приложения. Задачка со звёздочкой
