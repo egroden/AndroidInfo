@@ -40,6 +40,8 @@
 - https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
 - https://youtu.be/1lbEw1sKsuY - Кодогенерация без kapt
 - https://www.youtube.com/watch?v=s8qHW3b5ms0 - Сражаемся против Android за право использовать композицию
+- https://www.youtube.com/channel/UCmkVThwbjthEg2RR4iuDQWA - Android Academy MSK
+- https://www.youtube.com/channel/UCYJHh8NFpPgrhNRy-ewucmQ - Android Academy Minsk
 
 # Android UI
 - https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
