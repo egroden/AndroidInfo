@@ -77,6 +77,7 @@
 # Android Media
 - https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239079%2Ff1f02f33f0946e8688%2Fpl_wall_-147415323 - Камера историй в Vk
 - https://www.youtube.com/watch?v=e1JYFRwHzkQ&t=55s - Стриминг видео
+- https://www.youtube.com/watch?v=EVNTsNs5mtg - Обработка голоса кодеком на Си под Андроид? Сделано!
 
 # Android Secutiry
 - https://www.youtube.com/watch?v=t6JQuxZz0Z0 - Android security
