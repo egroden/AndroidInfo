@@ -39,6 +39,7 @@
 - https://www.youtube.com/watch?v=Yx2VjW5G2GA - Просто интересно
 - https://www.youtube.com/watch?v=GmZEFB0is6Y&list=PLrCZzMib1e9ph8_yBNyadEIALm_3Q9fRS&index=1 - уроки Технострим
 - https://youtu.be/1lbEw1sKsuY - Кодогенерация без kapt
+- https://www.youtube.com/watch?v=s8qHW3b5ms0 - Сражаемся против Android за право использовать композицию
 
 # Android UI
 - https://www.youtube.com/watch?v=1rHVo9jEFJ8&feature=youtu.be - CustomViews
@@ -56,6 +57,7 @@
 - https://www.youtube.com/watch?v=hX-r-PiKX4s - CustomViews
 - https://vk.com/tech?w=wall-147415323_4623&z=video-147415323_456239080%2F7aa8c9a85c738bc8eb%2Fpl_wall_-147415323 - Рендеринг экрана сообщений в Vk
 - https://youtu.be/b0217C0kGUs - Пример использования Jetpack Compose
+- https://www.youtube.com/watch?v=h5afEeuI0GQ - Упрощаем рутину списки 2.0
 
 # Android Persistence
 - https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
