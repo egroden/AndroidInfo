@@ -84,6 +84,7 @@
 
 # Android Build
 - https://youtu.be/ZgCZV8Q9dt0 - Сборка Android-приложения. Задачка со звёздочкой
+- https://www.youtube.com/watch?v=ez3mQoMZUBY - Gradle pipeline optimisation: Beyond basics
 
 # Virtual/Incremental dom
 - https://www.youtube.com/watch?v=6YF3ZzUyTms&t=1s - virtual dom in React
