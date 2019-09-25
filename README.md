@@ -63,6 +63,7 @@
 - https://www.youtube.com/watch?v=-IaESTc9fno - Стратегии кэширования
 - https://www.youtube.com/watch?v=gltwW1-Ibp0 - Бинарная имплементация SharedPreferences
 - https://www.youtube.com/watch?v=S7_hdLtDwcA - Реализация кэша в Vk
+- https://www.youtube.com/watch?v=A-P6EDw5z_s - Sql/SqlLite основы
 
 # Android OS
 - https://www.youtube.com/watch?v=-VmuCQaejEg - Процессы в android
