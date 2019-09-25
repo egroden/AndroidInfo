@@ -11,6 +11,7 @@
 - https://www.youtube.com/watch?v=-lJm_hdRmkk - unsafe
 - https://www.youtube.com/watch?v=oYu3HuIYDhI - jit компиляция
 - https://android.jlelse.eu/closer-look-at-android-runtime-dvm-vs-art-1dc5240c3924 - Closer Look At Android Runtime: DVM vs ART
+- https://www.youtube.com/watch?v=XtijbFcQxyw - Ходячие объекты мертвецы, или GC всегда прав
 
 
 # Kotlin/Java
